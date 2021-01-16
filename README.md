@@ -1,6 +1,6 @@
 # Mog Camp Generator
 
-This is a game made by kapparill#8871 and i dont like it
+This is a game made by kapparill#8871 and i dont like it (I had to make this repo private because kapparill is a bitch if you want acess to the repo just dm AkronOhioScott#7069 on discord)
 
 ## What is this?
 
